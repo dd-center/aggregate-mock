@@ -1,0 +1,9 @@
+[submodule "vtbs.moe"]
+	path = vtbs.moe
+	url = https://github.com/dd-center/vtbs.moe.git
+[submodule "state-center"]
+	path = state-center
+	url = https://github.com/dd-center/state-center.git
+[submodule "Cluster-center"]
+	path = Cluster-center
+	url = https://github.com/dd-center/Cluster-center.git
